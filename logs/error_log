@@ -1,0 +1,2 @@
+[Wed Nov 15 00:27:15.148813 2017] [autoindex:error] [pid 28427] [client 127.0.0.1:57982] AH01276: Cannot serve directory /var/www/filter.pass/app/: No matching DirectoryIndex (index.php) found, and server-generated directory index forbidden by Options directive
+[Wed Nov 15 00:29:27.257456 2017] [autoindex:error] [pid 27803] [client 127.0.0.1:58002] AH01276: Cannot serve directory /var/www/filter.pass/app/: No matching DirectoryIndex (index.php) found, and server-generated directory index forbidden by Options directive
